@@ -1,0 +1,90 @@
+{
+    name: 'Yash Sakre',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931866/OpinHacks/yash_i5lhz5.png',
+    LinkedlnUrl:'',
+},
+{
+    name: 'Ranjit Ranjan',
+    imageUrl:'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931866/OpinHacks/ranjit_e1yxwu.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/ranjit-ranjan-b31413bb/',
+},
+{
+    name: 'Jayesh Tripathi',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693935173/jayesh_g2p87r.png',
+    LinkedlnUrl:'',
+},
+{
+    name: 'Vaibhav Shukla',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931869/OpinHacks/vaibhav_efvwvz.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/vaibhav-shukla-319045210',
+},
+{
+    name: 'Ishu Pathak',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693936066/ishu_kkbaye.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/ishu-pathak/',
+},
+{
+    name: 'Dhruv Adavadkar',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931944/OpinHacks/dhruv_ndpcpn.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/dhruv-adavadkar-0aa626226/',
+},
+{
+    name: 'Aditya Narayan Tiwari',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931944/OpinHacks/aditya_i6sgce.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/iadityanarayant',
+},
+{
+    name: 'Manas Banjare',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931943/OpinHacks/manas_kl5vlx.png',
+    LinkedlnUrl:'',
+},
+{
+    name: 'Akash Tiwari',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931944/OpinHacks/akash_ze90ey.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/akashtiwari2003/',
+},
+{
+    name: 'Bhumika Sahu',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931942/OpinHacks/bhumika_ndh759.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/bhumika-sahu-14092b25b',
+},
+{
+    name: 'Shashank Yadav',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931942/OpinHacks/shashank_krruwv.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/shashank-yadav-36b360239/',
+},
+{
+    name: 'Shruti Pandey',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931942/OpinHacks/shruti_cjvaw8.png',
+    LinkedlnUrl:'',
+},
+{
+    name: 'Sanskriti Harmukh',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931941/OpinHacks/sanskriti_rgbuug.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/sanskriti-harmukh/',
+},
+{
+    name: 'Poorva Diwan',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931941/OpinHacks/poorva_neodrg.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/poorva-diwan-a019971a7',
+},
+{
+    name: 'Akshat Pandey',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931867/OpinHacks/akshat_b9hnj0.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/akshat-pandey-001a53147',
+},
+{
+    name: 'Devansh Srivastava',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931941/OpinHacks/pr_y9xwod.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/devansh-shrivastava-94228a230/',
+},
+{
+    name: 'Shaswat Gupta',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931942/OpinHacks/shaswat_abzj22.png',
+    LinkedlnUrl:'https: //in.linkedin.com/in/shashwat--gupta',
+},
+{
+    name: 'Ayush Gaur',
+    imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931939/OpinHacks/ayush_yoyqoh.png',
+    LinkedlnUrl:'https: //www.linkedin.com/in/theayushgaur',
+},

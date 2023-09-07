@@ -1,22 +1,22 @@
 "organizers":[
     {
     name: 'Vinayak Rawat',
-    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694102901/OpinHacks/vinayak_sr0g0m.png',
+    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694106512/opinhacks/vinayak_lanux9.svg',
     LinkedlnUrl:'https://www.linkedin.com/in/ig-rawx/',
 },
 {
-    name: 'Sanskar Dwivedi',
-    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694102901/OpinHacks/sanskar_n5ymqc.png',
+    name: 'Sanskar Dewedi',
+    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694106511/opinhacks/sanskar_lo7bdm.svg',
     LinkedlnUrl:'https://www.linkedin.com/in/sanskar-dwivedi-a20201200/',
 },
 {
     name: 'Manaswi Sinha',
-    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694102901/OpinHacks/manaswi_yivjxf.png',
+    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694106513/opinhacks/manaswi_kovqrc.svg',
     LinkedlnUrl:'https://www.linkedin.com/in/manaswi-sinha-6b403b1b8/',
 },
 {
     name: 'Tejas Agrawal',
-    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694102901/OpinHacks/tejas_yw7olq.png',
+    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694106511/opinhacks/tejas_xnzj49.svg',
     LinkedlnUrl:'https://www.linkedin.com/in/thetejasagrawal/',
 },
 ]
@@ -24,7 +24,7 @@
 "advisors":[
     {
     name: 'Chaitali Choudhary',
-    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694102903/OpinHacks/chaitali_mjqgh5.png',
+    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694106528/opinhacks/chaitali_bba1ov.svg',
     LinkedlnUrl:'https://www.linkedin.com/in/chaitali-choudhary-8402b925/',
 },
 ]

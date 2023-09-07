@@ -5,7 +5,7 @@
     LinkedlnUrl:'https://www.linkedin.com/in/ig-rawx/',
 },
 {
-    name: 'Sanskar Dewedi',
+    name: 'Sanskar Dwivedi',
     imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694102901/OpinHacks/sanskar_n5ymqc.png',
     LinkedlnUrl:'https://www.linkedin.com/in/sanskar-dwivedi-a20201200/',
 },

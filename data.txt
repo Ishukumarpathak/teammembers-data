@@ -1,4 +1,36 @@
+"organizers":[
+    {
+    name: 'Vinayak Rawat',
+    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694102901/OpinHacks/vinayak_sr0g0m.png',
+    LinkedlnUrl:'https://www.linkedin.com/in/ig-rawx/',
+},
 {
+    name: 'Sanskar Dewedi',
+    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694102901/OpinHacks/sanskar_n5ymqc.png',
+    LinkedlnUrl:'https://www.linkedin.com/in/sanskar-dwivedi-a20201200/',
+},
+{
+    name: 'Manaswi Sinha',
+    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694102901/OpinHacks/manaswi_yivjxf.png',
+    LinkedlnUrl:'https://www.linkedin.com/in/manaswi-sinha-6b403b1b8/',
+},
+{
+    name: 'Tejas Agrawal',
+    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694102901/OpinHacks/tejas_yw7olq.png',
+    LinkedlnUrl:'https://www.linkedin.com/in/thetejasagrawal/',
+},
+]
+
+"advisors":[
+    {
+    name: 'Chaitali Choudhary',
+    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694102903/OpinHacks/chaitali_mjqgh5.png',
+    LinkedlnUrl:'https://www.linkedin.com/in/chaitali-choudhary-8402b925/',
+},
+]
+
+"coreTeam":[
+    {
     name: 'Yash Sakre',
     imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931866/OpinHacks/yash_i5lhz5.png',
     LinkedlnUrl:'',
@@ -88,3 +120,5 @@
     imageUrl: 'https: //res.cloudinary.com/dlu9czr7j/image/upload/v1693931939/OpinHacks/ayush_yoyqoh.png',
     LinkedlnUrl:'https: //www.linkedin.com/in/theayushgaur',
 },
+
+]

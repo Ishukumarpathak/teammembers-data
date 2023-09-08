@@ -6,12 +6,12 @@
 },
 {
     name: 'Sanskar Dwivedi',
-    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694106511/opinhacks/sanskar_lo7bdm.svg',
+    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694180340/sanskar2_rlebwx.svg',
     LinkedlnUrl:'https://www.linkedin.com/in/sanskar-dwivedi-a20201200/',
 },
 {
     name: 'Manaswi Sinha',
-    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694106513/opinhacks/manaswi_kovqrc.svg',
+    imageUrl: 'res.cloudinary.com/dlu9czr7j/image/upload/v1694180348/manaswi2_yknnsy.svg',
     LinkedlnUrl:'https://www.linkedin.com/in/manaswi-sinha-6b403b1b8/',
 },
 {
